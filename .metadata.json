@@ -1,9 +1,5 @@
 [
   {
-    "package": "cheem",
-    "oncran": true
-  },
-  {
     "package": "spinifex",
     "oncran": true
   }
